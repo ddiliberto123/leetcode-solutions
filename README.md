@@ -1,6 +1,6 @@
 # My Leetcode Solutions
 
-They might not be the best or the fastest for all of them, but they're mine.  
+They might not be the best or the fastest, but they're mine.  
 You've got to start somewhere.
 
 ---
